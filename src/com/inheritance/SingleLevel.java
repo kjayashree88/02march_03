@@ -1,6 +1,6 @@
 package com.inheritance;
 
-import org.w3c.dom.ls.LSOutput;
+
 
 public class SingleLevel {
 public static void main(String[] args) {
