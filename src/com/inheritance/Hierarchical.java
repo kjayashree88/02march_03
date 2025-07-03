@@ -5,7 +5,7 @@ public class Hierarchical {
         Parrot p = new Parrot();
         p.beautiful();
         p.makeSound();
-        
+
 
     }
     }
